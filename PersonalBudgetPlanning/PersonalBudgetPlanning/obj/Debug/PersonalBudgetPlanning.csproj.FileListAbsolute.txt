@@ -1,0 +1,8 @@
+C:\Users\tyree\source\repos\PersonalBudgetPlanning\PersonalBudgetPlanning\bin\Debug\PersonalBudgetPlanning.exe.config
+C:\Users\tyree\source\repos\PersonalBudgetPlanning\PersonalBudgetPlanning\bin\Debug\PersonalBudgetPlanning.exe
+C:\Users\tyree\source\repos\PersonalBudgetPlanning\PersonalBudgetPlanning\bin\Debug\PersonalBudgetPlanning.pdb
+C:\Users\tyree\source\repos\PersonalBudgetPlanning\PersonalBudgetPlanning\obj\Debug\PersonalBudgetPlanning.csproj.AssemblyReference.cache
+C:\Users\tyree\source\repos\PersonalBudgetPlanning\PersonalBudgetPlanning\obj\Debug\PersonalBudgetPlanning.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyree\source\repos\PersonalBudgetPlanning\PersonalBudgetPlanning\obj\Debug\PersonalBudgetPlanning.csproj.CoreCompileInputs.cache
+C:\Users\tyree\source\repos\PersonalBudgetPlanning\PersonalBudgetPlanning\obj\Debug\PersonalBudgetPlanning.exe
+C:\Users\tyree\source\repos\PersonalBudgetPlanning\PersonalBudgetPlanning\obj\Debug\PersonalBudgetPlanning.pdb
